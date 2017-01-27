@@ -1,2 +1,3 @@
-# Projects
-Extending Courses projects and own projects
+
+# The ATM MACHINE PROJECT FROM PLATZI INTRO TO PROGRAMMING COURSE
+Extending Courses Project
